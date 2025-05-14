@@ -1,4 +1,4 @@
-<h1 align="center">🐉 JezukoNB / begginer coder </h1>
+<h1 align="center">🐉 JezukoNB / beginner coder </h1>
 
 ###
 
